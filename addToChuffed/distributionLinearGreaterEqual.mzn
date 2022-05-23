@@ -1,0 +1,1 @@
+predicate distributionLinearGreaterEqual(array[int] of var int: dist, int: confidencePercent, array[int] of int: eventDuration, array[int] of int: eventMeanOccurrence);
